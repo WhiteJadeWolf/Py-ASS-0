@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input(""))
 c=0
 pos=0
 x=input()
